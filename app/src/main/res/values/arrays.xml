@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="package1"
+        >
+        <item>Select Your Package</item>
+        <item>1000(10tk)</item>
+        <item>1L(Monthly)</item>
+        <item>5L(Monthly)</item>
+        <item>10L(Monthly)</item>
+        <item>15L(Monthly)</item>
+    </string-array>
+    <string-array name="examples">
+        <item>Custom Printing</item>
+        <item>Fast Turnaround</item>
+        <item>Prices</item>
+        <item>Wide Range Products</item>
+        <item>Unique Products</item>
+        <item>Stylish Items</item>
+    </string-array>
+
+    <string-array name="radio_buttons">
+        <item>Bkash</item>
+        <item>Rocket</item>
+        <item>COD</item>
+    </string-array>
+    <!-- Reply Preference -->
+    <string-array name="reply_entries">
+        <item>Reply</item>
+        <item>Reply to all</item>
+    </string-array>
+
+    <string-array name="reply_values">
+        <item>reply</item>
+        <item>reply_all</item>
+    </string-array>
+    //
+    <string-array name="payment">
+        <item>Select Payment Methode</item>
+        <item>Bkash</item>
+        <item>Rocket</item>
+        <item>Nogod</item>
+    </string-array>
+    //
+
+    <string-array name="packageitem">
+        <item>Select Your Package</item>
+        <item>Seasonal package 500(10tk)</item>
+        <item>Silver package 1000(20tk)</item>
+        <item>Platinum package 2000(45tk)</item>
+        <item>Gold package 3000(75tk)</item>
+        <item>Diamond package 5000(125tk)</item>
+        <item>Diamond2 package 10000(260tk)</item>
+        <item>Diamond3 package 20000(530tk)</item>
+    </string-array>
+</resources>

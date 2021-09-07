@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "120584257665",
+    "firebase_url": "https://habib-3ce51-default-rtdb.firebaseio.com",
+    "project_id": "habib-3ce51",
+    "storage_bucket": "habib-3ce51.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:120584257665:android:fabef9735215a9e1e2cd80",
+        "android_client_info": {
+          "package_name": "com.habib.habib_user"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "120584257665-gcsno8gjf94hg2120k99ig3s2isgudm2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.habib.habib_user",
+            "certificate_hash": "0a85760045a4fde13eafaf35a6f7b6163d77b737"
+          }
+        },
+        {
+          "client_id": "120584257665-dmql49jjj35jjcp71c5h32kcojbl8994.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBah2gjeBPV5sokwQeUg_u_XdUBh--_y44"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "120584257665-dmql49jjj35jjcp71c5h32kcojbl8994.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
